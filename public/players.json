@@ -58,5 +58,64 @@
     "bowlingStyle": "Left-arm fast",
     "price": 980000,
     "playerImg": "https://i.ibb.co.com/pmN8jyw/starc.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 950000,
+    "playerImg": "https://i.ibb.co.com/gbwqh3LS/rashid-khan.png"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 87,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 900000,
+    "playerImg": "https://i.ibb.co.com/RpD2Wdfp/david-warner.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 86,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 880000,
+    "playerImg": "https://i.ibb.co.com/4ZJvXkCw/kane-williamson.png"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 85,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 850000,
+    "playerImg": "https://i.ibb.co.com/mVDL2tNQ/trent-boult.png"
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicket-Keeper Batsman",
+    "rating": 84,
+    "battingStyle": "Right-hand bat",
+    "price": 800000,
+    "playerImg": "https://i.ibb.co.com/393dNSdD/mushfiqur.png"
+  },
+  {
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 83,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 750000,
+    "playerImg": "https://i.ibb.co.com/6cNW4J9j/mahmudullah.webp"
   }
 ]

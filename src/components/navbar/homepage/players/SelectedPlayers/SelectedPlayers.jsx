@@ -5,8 +5,9 @@ import SelectedCard from '../Ui/SelectedCard';
 const SelectedPlayers = ({selectedPlayers, setSelectedPlayers, setCoin, coin}) => {
     console.log(selectedPlayers, 'selected players');
 
-    const handleDeleteSelectedPlayer = (player) => {
+    const handleDeleteSelectedPlayer = (player, e) => {
         console.log(player);
+        e.preventDefault();
         const filteredPlayers = selectedPlayers.filter((selectedPlayer) => selectedPlayer.playerName !== player.playerName);
         console.log(filteredPlayers);
         setSelectedPlayers(filteredPlayers);
