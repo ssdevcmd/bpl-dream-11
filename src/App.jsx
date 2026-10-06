@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 
 const fetchPlayer = async()=>{
-  const res = await fetch('/data.json');
+  const res = await fetch('/players.json');
   return res.json();
 }
 
@@ -37,4 +37,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
