@@ -2,7 +2,7 @@ import React from 'react';
 import { FaFlag, FaUser } from 'react-icons/fa';
 import { toast } from 'react-toastify';
 
-const MAX_PLAYERS = 6;
+const MAX_PLAYERS = 12;
 
 const Card = ({ player, setCoin, coin, selectedPlayers, setSelectedPlayers }) => {
   // Check directly if player is already selected in parent state
